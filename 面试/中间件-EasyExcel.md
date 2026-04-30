@@ -1,0 +1,3 @@
+
+问题
+记得加上rewriteBatchedStatements=true
